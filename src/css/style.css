@@ -1,0 +1,13 @@
+body {
+    color: #999;
+}
+
+.type_card img {
+    height: 46px;
+    margin-right: 6px;
+    opacity: 0.09;
+}
+
+.active_card {
+    opacity: 1 !important;
+}
